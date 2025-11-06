@@ -1,4 +1,4 @@
-# ☕ Café com Códigos
+# ☕💻 Café com Códigos
 
 **Café com Códigos** é um site visual e interativo que une duas paixões: **café e programação**.  
 Cada xícara representa uma bebida clássica feita à base de café expresso, com **camadas animadas em CSS e JavaScript**, revelando os ingredientes de forma dinâmica e elegante.
